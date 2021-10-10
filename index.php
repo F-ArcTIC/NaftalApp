@@ -1,5 +1,5 @@
 <?php
-header("Location: acceuil/register.php"); 
+header("Location: Acceuil/register.php"); 
 
 exit;
 ?>
