@@ -223,19 +223,9 @@ a[data-toggle="collapse"] {
                          <br>
                          <div class="dropdown-divider"></div>
                         <li class="" id="user">
-                            <a href="user.php">Utilisateurs</a>
+                            <a href="index.php">Utilisateurs</a>
                         </li>
                         
-                        <li id="AO">
-                            <a href="index.php">Appels d'Offres</a>
-                        </li>
-                        
-                        <li id="Préqualifications">
-                            <a href="">Préqualifications</a>
-                        </li>
-                        <li id="GG">
-                            <a href="">Grés à Grés</a>
-                        </li>
                     </ul>
 
 </nav>
